@@ -27,3 +27,10 @@ commands:
       component: tools
       workingDir: ${PROJECT_SOURCE}
       commandLine: "source ~/.bashrc && camel plugin add kubernetes"
+attributes:
+  .vscode/extensions.json: |
+    {
+      "recommendations": [
+        "redhat.vscode-kaoto"
+      ]
+    }

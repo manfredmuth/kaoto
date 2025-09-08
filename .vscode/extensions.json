@@ -1,6 +1,11 @@
+#{
+#    "recommendations": [
+#        "redhat.vscode-kaoto",
+#        "redhat.vscode-camelk"
+#    ]
+#}
 {
     "recommendations": [
-        "redhat.vscode-kaoto",
-        "redhat.vscode-camelk"
+        "redhat.apache-camel-extension-pack",
     ]
 }
